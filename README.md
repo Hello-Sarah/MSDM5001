@@ -1,14 +1,36 @@
 # MSDM5001
+Ruhui Shen, 20755417 
+October 19th, 2020
+System(Ali Server): CentOS Linux release 7.8.2003 (Core)
+Python version: Python 2.7.5
+Bash version: GNU bash， 版本 4.2.46(2)-release (x86_64-redhat-linux-gnu)
+Github: https://github.com/Hello-Sarah/MSDM5001.git
+
+Please download the whole repositories.
+
 ## Question 2
 
 run
     
-    sh ./hw1.sh
-## Question 3
+    sh ./test_2.sh
+## Question 3.1
 
 run
 
-    python3 hw1.py > result.txt
-the result will be printed to the file result.txt
+    python 3.1.py 
+or
+    
+    python 3.1.py > result_3.1.txt 
 
-texts after *** part 1*** is the result for the first question and texts after *** part 2 *** is the result for the second question.
+to print the result to the result_3.1.txt file
+
+## Question 3.1
+
+run
+
+    python 3.2.py 
+or
+    
+    python 3.2.py > result_3.2.txt 
+
+to print the result to the result_3.2.txt file
